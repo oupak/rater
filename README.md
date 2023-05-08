@@ -5,6 +5,7 @@
 
 ## Rating page
 ![image](https://user-images.githubusercontent.com/74593676/236797404-9e3e4ad9-02a9-432a-b241-b2cdb141aae1.png)
+### Rating mechanism
 ![image](https://user-images.githubusercontent.com/74593676/236797512-eef87137-d5b8-477e-9c7f-71747cb993d5.png)
 
 ## Category feature
